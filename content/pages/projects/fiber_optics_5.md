@@ -19,7 +19,7 @@ The direction of loading during mode 1 is normal to the crack faces.
   
  
 
-{{< resource afbfcf98-df35-621c-80f5-a8114b5a475e "" >}}
+{{< resource "afbfcf98-df35-621c-80f5-a8114b5a475e" >}}
 
 Portion of image removed due to copyright restrictions. Please see Fig. 6 in \[[1](#ref)\].
 
@@ -56,7 +56,7 @@ Image removed due to copyright restrictions. Please see Fig. 2 in \[[1](#ref)\].
 
 In class we saw that the stress intensity K{{< sub "I" >}} in Mode I loading is calculated by
 
-{{< resource 9f75aa2c-0329-7f0f-548b-f7419c9224c3 "" >}}
+{{< resource "9f75aa2c-0329-7f0f-548b-f7419c9224c3" >}}
 
 where c is the crack size and f is a factor close to unity. Using the crack size and stress values given, we get a value K{{< sub "I" >}} = 0.069 MPa m{{< sup "1/2" >}}. This value is out of the range of the data plots on the figure above, but by extrapolation we can estimate the crack propagation velocity to be 5 nm/s. It would thus take 30 s for the crack to grow another 150 nm.
 

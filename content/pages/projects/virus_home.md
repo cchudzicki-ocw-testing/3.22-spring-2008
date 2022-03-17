@@ -17,7 +17,7 @@ Group Members
 *   Heechul Park
 *   Jing Shan
 
-{{< resource 52af0d71-c83d-e26a-b788-51956735c49a "virus_home_1.jpg" >}}
+{{< resource "52af0d71-c83d-e26a-b788-51956735c49a" >}}
 
 References
 ----------

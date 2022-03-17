@@ -19,7 +19,7 @@ The Bain Correspondence involves the austenite/martensite phase transformation b
   
  
 
-{{< resource 574b5b61-bedc-90c7-c56e-a5f8756ec70f "" >}}
+{{< resource "574b5b61-bedc-90c7-c56e-a5f8756ec70f" >}}
 
   
  
@@ -37,7 +37,7 @@ The Young's modulus of shape memory alloy changes drastically during transformat
   
  
 
-{{< resource 683340c0-6e38-e449-6a3f-270f3abc5021 "" >}}
+{{< resource "683340c0-6e38-e449-6a3f-270f3abc5021" >}}
 
   
  
@@ -66,7 +66,7 @@ Image removed due to copyright restrictions. Please see [phase diagram of Ni-Ti]
   
  
 
-{{< resource df110d60-88e4-0182-5337-3ad7886c5b37 "" >}}
+{{< resource "df110d60-88e4-0182-5337-3ad7886c5b37" >}}
 
 Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[2](#ref)\]
 
@@ -85,33 +85,33 @@ Shape Memory Alloys (SMAs) can be used as thermal actuators by using the propert
 
 The straining due to temperature change occurs due to changes of crystalline arrangement of the metallic atoms. In the initial, undeformed state, the material is martensitic. As the material is cooled below the _M{{< sub "f" >}}_ temperature, material is converted into an austenitic state. The martensitic and austenitic states both have separate free energy potential functions (_U{{< sub "m" >}}_ and _U{{< sub "a" >}}_, respectively) because they describe different crystalline configurations. Given a constant externally-applied force per bond (_F_{{< sub "0" >}}), equilibrium distances can be found by differentiating the potentials with respect to interatomic distance, then solving for the interatomic distance corresponding to _F_{{< sub "0" >}}. The difference between the loaded equilibrium bond distance for martensite and austenite will indicate how much displacement is achieved by changing the temperature. This displacement times the externally-applied force will give the stored or returned mechanical energy. Mathematically, this can be seen as:
 
-{{< resource 76420da5-edc7-d6e5-7c54-62a3bb33cf6d "" >}}
+{{< resource "76420da5-edc7-d6e5-7c54-62a3bb33cf6d" >}}
 
-{{< resource c57630be-004b-74d5-c185-40beb161f9e2 "" >}}
+{{< resource "c57630be-004b-74d5-c185-40beb161f9e2" >}}
 
-{{< resource 57da446e-cd04-017f-5e0c-b3adb4d4079e "" >}}
+{{< resource "57da446e-cd04-017f-5e0c-b3adb4d4079e" >}}
 
-where {{< resource 72797454-4081-eb5f-a8f9-571496498573 "" >}} denotes the functional dependence of _R{{< sub "a" >}}_ on _F_ rather than multiplication of the two. This process is demonstrated graphically in the figure below.
+where {{< resource "72797454-4081-eb5f-a8f9-571496498573" >}} denotes the functional dependence of _R{{< sub "a" >}}_ on _F_ rather than multiplication of the two. This process is demonstrated graphically in the figure below.
 
   
  
 
-{{< resource b27c5478-662f-39c8-c0cb-0b19782229b0 "" >}}
+{{< resource "b27c5478-662f-39c8-c0cb-0b19782229b0" >}}
 
   
  
 
 On the continuum level, the energy density can be calculated for a tension-loaded SMA wire by applying a constant stress to a wire and recording the strain variation as a function of temperature. Mechanical energy can be found as
 
-{{< resource 1abf72c5-f365-3ff7-c40b-5a1719d6c56a "" >}}
+{{< resource "1abf72c5-f365-3ff7-c40b-5a1719d6c56a" >}}
 
-{{< resource 5cbe7f68-c40b-d9c3-4592-8592686ec959 "" >}}
+{{< resource "5cbe7f68-c40b-d9c3-4592-8592686ec959" >}}
 
-{{< resource 1ff187db-7a55-d917-9316-e4ccbbcb9e36 "" >}}
+{{< resource "1ff187db-7a55-d917-9316-e4ccbbcb9e36" >}}
 
 Combining the above three equations gives:
 
-{{< resource b8a49f31-9110-b7bd-1584-ee84f077df3d "" >}}
+{{< resource "b8a49f31-9110-b7bd-1584-ee84f077df3d" >}}
 
 Similar experiments have been done for a wire in tension, torsion, and bending, and they are summarized in the table below, after Humbeeck \[[1](#ref)\].
 

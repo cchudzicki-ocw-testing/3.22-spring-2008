@@ -16,7 +16,7 @@ _(b) Aldo's Fig. 3 \[[1](#Reference)\] shows relation between effective creep st
   
  
 
-{{< resource 101ab719-f4ed-fe49-e7ff-dd8da057cf89 "" >}}
+{{< resource "101ab719-f4ed-fe49-e7ff-dd8da057cf89" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 

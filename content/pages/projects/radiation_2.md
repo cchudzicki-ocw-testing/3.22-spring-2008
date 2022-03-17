@@ -15,7 +15,7 @@ _(a) Jitsukawa, et al. \[[1](#References)\] summarizes steel's mechanical proper
 
 There is no extensive database on the variation in elastic properties of steel as a function of composition, processing, or radiation exposure because these values vary very little inside different classifications of steels, as can be seen in the following graph:
 
-{{< resource eb535bd0-ea6b-893b-9f3f-0edf997e8ff8 "" >}}
+{{< resource "eb535bd0-ea6b-893b-9f3f-0edf997e8ff8" >}}
 
 Data compiled from \[[2](#References)\].
 
@@ -23,7 +23,7 @@ The yellow bars represent the variation of the Young's Modulus in each category,
 
 The fact that elastic properties do not vary much is because properties such as the Young's Modulus is primarily as a result of the interatomic potential, U(r) and equilibrium atomic separation, r{{< sub "0" >}} :
 
-{{< resource 3551d016-15b7-84f1-f55e-a06516ff03c4 "" >}}
+{{< resource "3551d016-15b7-84f1-f55e-a06516ff03c4" >}}
 
 Equation for the Young's Modulus from material covered in class.
 
@@ -35,7 +35,7 @@ _(b) Given that you know linear elastic behavior (expected of alloys like steel)
 
 Fig. 2 below is a plot of yield strain as a function of temperature:
 
-{{< resource aec0af8c-6f88-1a43-44f9-95c5a813adfd "" >}}
+{{< resource "aec0af8c-6f88-1a43-44f9-95c5a813adfd" >}}
 
 Data to create this graph taken from Fig.'s 1 and 8 of S. Jitsukawa, et al. \[[1](#References)\]. Radiation levels for the irradiated specimen were 0.32 dpa at 300C.
 

@@ -19,7 +19,7 @@ The homogeneous dislocation nucleation occurs at the maximal shear stress state 
 {{< tdopen >}}
 
 
-{{< resource 177535ab-24f0-5b65-bdae-3d906e03faf1 "" >}}
+{{< resource "177535ab-24f0-5b65-bdae-3d906e03faf1" >}}
 
 
 {{< tdclose >}}
@@ -38,7 +38,7 @@ where σ{{< sub "z" >}} and σ{{< sub "θ" >}} are principal stresses expressed 
 {{< tdopen >}}
 
 
-{{< resource 2434e379-d3a5-d989-62bc-9d9d2da286a8 "" >}}
+{{< resource "2434e379-d3a5-d989-62bc-9d9d2da286a8" >}}
 
 
 {{< tdclose >}}
@@ -51,7 +51,7 @@ Eq. 2
 {{< tdopen >}}
 
 
-{{< resource 272771c2-f26c-5861-6f91-f0e794253e35 "" >}}
+{{< resource "272771c2-f26c-5861-6f91-f0e794253e35" >}}
 
 
 {{< tdclose >}}
@@ -63,16 +63,16 @@ Eq. 3
 
 {{< tableclose >}}
 
-Here _p{{< sub "0" >}}_ is the maximum pressure, {{< resource 46fba174-b8ac-aab4-c005-33c8bb2d4451 "" >}}
+Here _p{{< sub "0" >}}_ is the maximum pressure, {{< resource "46fba174-b8ac-aab4-c005-33c8bb2d4451" >}}
 
 Therefore
 
-{{< resource 6b80d7a4-ad9f-f362-8a15-62e66960ec37 "" >}}\={{< resource 455ed4f1-696f-6098-6aca-d22af1eb6754 "" >}}
+{{< resource "6b80d7a4-ad9f-f362-8a15-62e66960ec37" >}}\={{< resource "455ed4f1-696f-6098-6aca-d22af1eb6754" >}}
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-\= {{< resource 8f8be4fe-45a4-2edb-921a-94b2a2df0a2a "" >}}
+\= {{< resource "8f8be4fe-45a4-2edb-921a-94b2a2df0a2a" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Eq. 4
@@ -88,7 +88,7 @@ Therefore we can say that homogeneous dislocation nucleation under an indenter i
 
 Another illustration is possible. The nano-indentation experiments can be thought of such that the indenter tip works somewhat like a lens, projecting the applied force to focus the maxima shear stress to an internal point inside the sample, away from the surface. \[[1](#ref)\]
 
-{{< resource 203c6690-3d29-8c57-9079-d2e9c152466b "" >}}
+{{< resource "203c6690-3d29-8c57-9079-d2e9c152466b" >}}
 
 In 2-D case, the plotting equation can be different from 3-D and this calculation is done at problem (c). Also we found an experimental report about the 2-D case. In that case the maximum shear stress position is _z/a_ = 0.78. \[[2](#ref)\]
 
@@ -107,33 +107,33 @@ As can be seen in the below figure, when a pressure distribution is applied on a
 
 In this 2-D indentation case with same radius _R(= R{{< sub "1" >}} = R{{< sub "2" >}}), a = b_.
 
-{{< resource 4949c2c8-011f-98c0-c66b-8f8604084b9b "" >}}
+{{< resource "4949c2c8-011f-98c0-c66b-8f8604084b9b" >}}
 
 2\. The distribution of pressure
 
 When a function takes the form below,
 
-{{< resource f630da14-e74a-5911-64e8-56e5540002f8 "" >}}
+{{< resource "f630da14-e74a-5911-64e8-56e5540002f8" >}}
 
 the solution _F(x)_ has this form.
 
-{{< resource 0a9b6b28-001b-4d6b-2a03-ef14f0ff9bac "" >}}
+{{< resource "0a9b6b28-001b-4d6b-2a03-ef14f0ff9bac" >}}
 
-where {{< resource 1493e11b-14a1-97c4-1b1d-8cfa774fc1a2 "" >}}
+where {{< resource "1493e11b-14a1-97c4-1b1d-8cfa774fc1a2" >}}
 
-Thus {{< resource 81ba6525-8db8-25a9-d91f-50f7c26338f0 "" >}} (equation (c)) has a solution _p(x)_ as seen in equation (d).
+Thus {{< resource "81ba6525-8db8-25a9-d91f-50f7c26338f0" >}} (equation (c)) has a solution _p(x)_ as seen in equation (d).
 
 3\. Procedure from the step (h) to the final answer
 
 When we take derivative of 1 with respect to z,
 
-{{< resource 49ca167a-ede0-4cce-45f5-ae397731c1f0 "" >}}
+{{< resource "49ca167a-ede0-4cce-45f5-ae397731c1f0" >}}
 
 Thus,
 
-{{< resource ef5461ef-1268-a175-8662-33532ce828a5 "" >}}
+{{< resource "ef5461ef-1268-a175-8662-33532ce828a5" >}}
 
-{{< resource a4befe15-159f-0ab3-8440-9a51a12b82ac "" >}}
+{{< resource "a4befe15-159f-0ab3-8440-9a51a12b82ac" >}}
 
 When we calculate this through a calculator, we can get z = 0.78a, and there τ{{< sub "max" >}} = 0.30 p{{< sub "0" >}}
 
@@ -150,7 +150,7 @@ Next, we look at the possibility of the load drops corresponding to critical eve
 {{< tdopen >}}
 
 
-{{< resource 35532625-b8c7-7f84-bf71-79b981e90330 "" >}}
+{{< resource "35532625-b8c7-7f84-bf71-79b981e90330" >}}
 
 
 {{< tdclose >}}

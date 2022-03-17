@@ -39,7 +39,7 @@ Applying these values and the assumption of linear elastic and linear strain har
   
  
 
-{{< resource d4f962c4-e364-f1ae-fd83-6eb37a6ca21b "" >}}  
+{{< resource "d4f962c4-e364-f1ae-fd83-6eb37a6ca21b" >}}  
 Courtesy of National Academy of Sciences, USA. Used with permission.  
 Source: Ivanovska, I. L., P. J. Pablo, B. Ibarra, G. Sgalari, F. C. MacKintosh, J. L. Carrascosa, C. F. Schmidt, and G. J. L. Wuite. "Bacteriophage capsids: Tough nanoshells with complex elastic properties." PNAS 101 (2004): 7600-7605. Copyright 2004 National Academy of Sciences, USA.
 
@@ -53,7 +53,7 @@ The toughness can be computed from the figure below by finding the area under th
   
  
 
-{{< resource 5d1ef217-7210-c8e8-7c13-6cdd5c43cbd5 "" >}}
+{{< resource "5d1ef217-7210-c8e8-7c13-6cdd5c43cbd5" >}}
 
   
  
