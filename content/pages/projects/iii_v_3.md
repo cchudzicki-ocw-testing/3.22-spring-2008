@@ -27,7 +27,7 @@ _(d) Given the stated impurity concentrations for the compounds considered by Yo
 
 Consider a volume, say V cm{{< sup "3" >}}, of the material.
 
-Let the impurity concentration be x cm{{< sup "\\-3" >}} .
+Let the impurity concentration be x cm{{< sup "\-3" >}} .
 
 Thus, the number of impurity atoms in the referred volume = V \* x
 
@@ -39,13 +39,13 @@ Number of impurity atoms = (V \* x){{< sup "(1/3)" >}}
 
 Average spacing between the impurity atoms along that length = (Considered Length) / (Number of impurity atoms) = x{{< sup "(-1/3)" >}} = L cms
 
-For GaAs, with a Si impurity concentration of 10{{< sup "16" >}} cm{{< sup "\\-3" >}}, L = 4.64 \* 10{{< sup "\\-6" >}} cm
+For GaAs, with a Si impurity concentration of 10{{< sup "16" >}} cm{{< sup "\-3" >}}, L = 4.64 \* 10{{< sup "\-6" >}} cm
 
-For GaP, with a S impurity concentration of 3.3\*10{{< sup "17" >}} cm{{< sup "\\-3" >}}, L = 1.44 \* 10{{< sup "\\-6" >}} cm
+For GaP, with a S impurity concentration of 3.3\*10{{< sup "17" >}} cm{{< sup "\-3" >}}, L = 1.44 \* 10{{< sup "\-6" >}} cm
 
 This is the maximum distance a dislocation needs to glide before encountering an impurity atom. Hence, the average distance a dislocation needs to glide before encountering an impurity atom = L/2.
 
-It should be understood that we have assumed that in gliding through this distance, a dislocation does not encounter another dislocation first, that is, the average spacing between the dislocations is greater than L. However this can be easily seen from the fact that the density of the grown-in dislocations, in both GaAs and GaP, is about 10{{< sup "6" >}} cm{{< sup "\\-2" >}} . From the definition of dislocation density, this is the number of dislocations per unit area. In other words, when you take a cross section of a plane perpendicular to dislocation length direction, then you see 10{{< sup "6" >}} dots uniformly distributed in that plane. So average spacing between two neighboring dislocations would be 1/(10{{< sup "6" >}} ){{< sup "0.5" >}} = (10){{< sup "\\-3" >}} cm. Thus, the avg distance between to dislocations is orders of magnitude higher than the avg distance between 2 impurities. In all probability, a dislocation would encounter 2 impurities before it encounters another dislocation.
+It should be understood that we have assumed that in gliding through this distance, a dislocation does not encounter another dislocation first, that is, the average spacing between the dislocations is greater than L. However this can be easily seen from the fact that the density of the grown-in dislocations, in both GaAs and GaP, is about 10{{< sup "6" >}} cm{{< sup "\-2" >}} . From the definition of dislocation density, this is the number of dislocations per unit area. In other words, when you take a cross section of a plane perpendicular to dislocation length direction, then you see 10{{< sup "6" >}} dots uniformly distributed in that plane. So average spacing between two neighboring dislocations would be 1/(10{{< sup "6" >}} ){{< sup "0.5" >}} = (10){{< sup "\-3" >}} cm. Thus, the avg distance between to dislocations is orders of magnitude higher than the avg distance between 2 impurities. In all probability, a dislocation would encounter 2 impurities before it encounters another dislocation.
 
 {{< anchor "ref" >}}{{< /anchor >}}Reference
 --------------------------------------------

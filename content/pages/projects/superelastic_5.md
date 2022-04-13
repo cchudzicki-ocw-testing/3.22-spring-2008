@@ -163,7 +163,7 @@ MATERIAL
 TEMPERATURE (°C)
 {{< thclose >}}
 {{< thopen >}}
-STRAIN RATE (s{{< sup "\\-1" >}})
+STRAIN RATE (s{{< sup "\-1" >}})
 {{< thclose >}}
 {{< thopen >}}
 Stress (MPa)
@@ -172,7 +172,7 @@ Stress (MPa)
 _n_
 {{< thclose >}}
 {{< thopen >}}
-_Q_ (kJ mol{{< sup "\\-1" >}})
+_Q_ (kJ mol{{< sup "\-1" >}})
 {{< thclose >}}
 {{< thopen >}}
 GRAIN SIZE (μm)
@@ -189,7 +189,7 @@ Mukherjee \[[1](#References)\]
 700-1000
 {{< tdclose >}}
 {{< tdopen >}}
-6 X 10{{< sup "\\-5" >}}—6 X 10{{< sup "\\-3" >}}
+6 X 10{{< sup "\-5" >}}—6 X 10{{< sup "\-3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 6-178
@@ -213,7 +213,7 @@ Kato, et al. \[[2](#References)\]
 628-888
 {{< tdclose >}}
 {{< tdopen >}}
-1 X 10{{< sup "\\-5" >}}—2 X 10{{< sup "\\-2" >}}
+1 X 10{{< sup "\-5" >}}—2 X 10{{< sup "\-2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 11-81
@@ -241,7 +241,7 @@ Eggeler, et al. \[[3](#References)\]
 470-530
 {{< tdclose >}}
 {{< tdopen >}}
-2 X 10{{< sup "\\-9" >}}—8 X 10{{< sup "\\-6" >}}
+2 X 10{{< sup "\-9" >}}—8 X 10{{< sup "\-6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 90-150
@@ -265,7 +265,7 @@ Kobus, et al. \[[4](#References)\]
 500-560
 {{< tdclose >}}
 {{< tdopen >}}
-2 X 10{{< sup "\\-7" >}}—3 X 10{{< sup "\\-5" >}}
+2 X 10{{< sup "\-7" >}}—3 X 10{{< sup "\-5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 120-180
@@ -289,7 +289,7 @@ Lexcellent, et al. \[[5](#References)\]
 597-897
 {{< tdclose >}}
 {{< tdopen >}}
-3 X 10{{< sup "\\-3" >}}—4 X 10{{< sup "\\-2" >}}
+3 X 10{{< sup "\-3" >}}—4 X 10{{< sup "\-2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 10-35
@@ -313,7 +313,7 @@ Oppenheimer, et al. \[[6](#References)\]
 950-1100
 {{< tdclose >}}
 {{< tdopen >}}
-1 X 10{{< sup "\\-6" >}}—1 X 10{{< sup "\\-5" >}}
+1 X 10{{< sup "\-6" >}}—1 X 10{{< sup "\-5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 4.7-11

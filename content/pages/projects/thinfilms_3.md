@@ -99,7 +99,7 @@ Use the material properties give in Table I,
 
 {{< resource "b59e55af-6bb0-984c-abf5-49aeaa53b667" >}}
 
-Given that residual strain is 10{{< sup "\\-12" >}}
+Given that residual strain is 10{{< sup "\-12" >}}
 
 Substituting S matrix and residual strain into the residual stress tensor equation given above, we have residual stress,
 
