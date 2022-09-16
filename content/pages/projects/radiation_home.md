@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -19,7 +20,7 @@ Group Members
   
  
 
-{{< resource 16c69936-28fb-5917-2e09-ad7c639017b3 "" >}}
+{{< resource "16c69936-28fb-5917-2e09-ad7c639017b3" >}}
 
   
  
@@ -77,5 +78,4 @@ Final Presentation
 {{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
 {{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
 {{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
-Effects of radiation on mechanical behavior of crystalline materials | {{% resource_link 0919f251-73fa-3bb8-24b6-200f1e8add7a "Problem Set 2" %}} | {{% resource_link 065bdafc-ff95-dcc5-4d56-8854da744fe3 "Problem Set 3" %}} | {{% resource_link 1ffd3c1d-bf94-ae3e-1e22-3ec1fc1c3ba9 "Problem Set 5" %}}[  
-]({{< baseurl >}}/pages/projects/thinfilms_home)
+Effects of radiation on mechanical behavior of crystalline materials | {{% resource_link 0919f251-73fa-3bb8-24b6-200f1e8add7a "Problem Set 2" %}} | {{% resource_link 065bdafc-ff95-dcc5-4d56-8854da744fe3 "Problem Set 3" %}} | {{% resource_link 1ffd3c1d-bf94-ae3e-1e22-3ec1fc1c3ba9 "Problem Set 5" %}}{{% resource_link "d2c4d382-2bf8-b124-ef19-84d129bb758e" "   " %}}

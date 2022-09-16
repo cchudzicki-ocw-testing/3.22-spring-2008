@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -26,32 +27,32 @@ Assumptions
 
 Material around gas bubble can be modeled as a spherical pressure vessel. Outer radius of pressure vessel, r{{< sub "o" >}}, taken to be the center of gas bubble beneath the material surface
 
-{{< resource fb8c17b5-3fb4-49ad-60ba-b7b1b7ce50ae "radiation_3_1.jpg" >}}
+{{< resource "fb8c17b5-3fb4-49ad-60ba-b7b1b7ce50ae" >}}
 
 Since _r/t_ \< 10, must use "thick wall pressure vessel theory
 
-{{< resource 6ecb0a47-99b3-9574-7deb-4505907263f0 "radiation_3_2.jpg" >}}
+{{< resource "6ecb0a47-99b3-9574-7deb-4505907263f0" >}}
 
 RVE: Radial and hoop stresses are the principal stresses
 
-{{< resource 61989447-637a-38d5-3326-e9fdb5610bac "radiation_pic1.jpg" >}}
+{{< resource "61989447-637a-38d5-3326-e9fdb5610bac" >}}
 
 From von Mises yield criteria:
 
   
  
 
-{{< resource cd9c96e0-b1bc-fe5f-f105-0f6f5e7e05fa "radiation_3_3.jpg" >}}
+{{< resource "cd9c96e0-b1bc-fe5f-f105-0f6f5e7e05fa" >}}
 
-{{< resource b69e2d3e-ff1e-b15b-03d6-c4a76ea7dc61 "radiation_3_4.jpg" >}}
+{{< resource "b69e2d3e-ff1e-b15b-03d6-c4a76ea7dc61" >}}
 
-{{< resource 33fe7896-aa6f-b294-d968-eb8b2379ac9b "radiation_3_5.jpg" >}}
+{{< resource "33fe7896-aa6f-b294-d968-eb8b2379ac9b" >}}
 
-{{< resource e1a6b801-7236-bece-8b85-8274d2633ee7 "radiation_3_6.jpg" >}}
+{{< resource "e1a6b801-7236-bece-8b85-8274d2633ee7" >}}
 
-{{< resource ea2b8054-d1da-cac7-3140-40fdf0fe1a30 "radiation_3_7.jpg" >}}
+{{< resource "ea2b8054-d1da-cac7-3140-40fdf0fe1a30" >}}
 
-{{< resource d1fe50b3-8d07-da8c-9673-b0e8e919786d "radiation_3_8.jpg" >}}
+{{< resource "d1fe50b3-8d07-da8c-9673-b0e8e919786d" >}}
 
   
  

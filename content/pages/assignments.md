@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course assignments, including preliminary
+  exercises, problem sets, and solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

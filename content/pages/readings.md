@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This readings section provides the list of required textbooks, recommended
+  supplementary readings, and references on special topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the three quizzes for the course along with solutions
+  for the first quiz.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
